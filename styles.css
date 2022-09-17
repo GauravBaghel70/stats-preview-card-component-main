@@ -47,8 +47,9 @@ body{
 }
 .about{
     padding-top: 25px;
+    padding-right:50px ;
     line-height: 25px;
-    font-size: 15px;
+    font-size: 13px;
     color: hsla(0, 0%, 100%, 0.6);
 }
 .h2{
